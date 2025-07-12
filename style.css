@@ -109,7 +109,7 @@ span {
   text-decoration: underline;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 400px) {
   * {
     font-size: 0.75rem;
   }
